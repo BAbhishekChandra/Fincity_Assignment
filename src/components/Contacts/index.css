@@ -1,0 +1,34 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.footer-icons-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: auto;
+  margin: auto;
+}
+
+.custom-button {
+  background-color: transparent;
+  border: none;
+}
+
+.footer-icons {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+}
+
+.copyright-paragraph {
+  font-family: 'PT Serif';
+  font-size: 12px;
+  font-weight: 500;
+  color: #000000;
+}
